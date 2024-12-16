@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Sonifi: Accessible Data Visualization with Sound",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaborated with a teama to design and develop a web app that creates accessible, sonified graphs for both sighted and visually impaired users. Followed WCAG standards and utilized Agile methodology.",
+    url: "https://github.com/DillonEdington/SonifyGraphs",
   },
   {
-    title: "Web Development for Beginners",
+    title: "JSON Web Key Set (JWKS) Server Implementation",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a secure JWKS server to support JSON Web Token (JWT) verification and authentication, ensuring robust and scalable identity management.",
+    url: "https://github.com/isaacrea/jwksServer_v3",
   },
   {
-    title: "My Resume Site",
+    title: "AWS EC2 WordPress Blog",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Built and hosted a WordPress blog on AWS EC2 to document my learning journey in web development and cloud hosting.",
+    url: "",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "C and C++ Algorithm Implementations",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created various algorithm implementations as part of my Algorithms course, showcasing skills in C and C++ programming.",
+    url: "",
   },
 ];
 
