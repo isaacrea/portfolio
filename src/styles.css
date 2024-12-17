@@ -123,6 +123,24 @@ a:hover {
   text-align: center;
 }
 
+.education-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin: 30px auto;
+}
+
+.education-box {
+  flex: 1;
+  min-width: 250px;
+  max-width: 300px;
+  border-radius: 10px;
+  box-shadow: 10px 5px 5px #3c161b;
+  padding: 24px 16px;
+  text-align: center;
+  background-color: whitesmoke;
+}
+
 img.socialIcon {
   height: 30px;
   width: 30px;
@@ -141,4 +159,20 @@ img.socialIcon {
 
 img.slideInLeft {
   animation: slideInLeft 1s ease-out;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-20px);
+  }
+  60% {
+    transform: translateY(-10px);
+  }
+}
+
+img.bounce {
+  animation: bounce 2s infinite;
 }
