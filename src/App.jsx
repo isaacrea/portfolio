@@ -29,10 +29,10 @@ const siteProps = {
   title: "Software Engineer & Cybersecurity Enthusiast",
   email: "isaacrea10@gmail.com",
   gitHub: "isaacrea",
-  instagram: "isaacrea1",
+  instagram: "",
   linkedIn: "isaacrea-se",
   medium: "",
-  twitter: "irea_sw",
+  twitter: "",
   youTube: "",
 };
 
