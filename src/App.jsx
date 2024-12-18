@@ -30,7 +30,7 @@ const siteProps = {
   email: "isaacrea10@gmail.com",
   gitHub: "isaacrea",
   instagram: "isaacrea1",
-  linkedIn: "isaacrea",
+  linkedIn: "isaacrea-se",
   medium: "",
   twitter: "irea_sw",
   youTube: "",
