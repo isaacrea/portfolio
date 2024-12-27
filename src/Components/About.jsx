@@ -46,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about reducing barriers to technology and creating solutions that are accessible for everyone. I thrive in collaborative environments where I can blend creativity, technical skills, and empathy to solve meaningful problems.";
+  "\"I am passionate about reducing barriers to technology and creating solutions that are accessible for everyone. I thrive in collaborative environments where I can blend creativity, technical skills, and empathy to solve meaningful problems.\"";
 
 const About = () => {
   return (
